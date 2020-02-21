@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    >
+
+
+    <TextView
+
+        style="@style/Title"
+        android:text="Feb 9 2016">
+
+    </TextView>
+
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light"
+
+        >
+
+        <TextView
+            style="@style/ItemText"
+            android:text="Intervuew at goggle">
+
+        </TextView>
+
+        <TextView
+            style="@style/ItemHour"
+            android:text="12:30 PM">
+
+        </TextView>
+
+        <CheckBox style="@style/ItemCheck">
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light">
+
+        <TextView
+            style="@style/ItemText"
+            android:text="Pick up the kids">
+
+        </TextView>
+
+        <TextView
+
+            style="@style/ItemHour"
+            android:text="4:30 PM">
+
+        </TextView>
+
+        <CheckBox
+
+            style="@style/ItemCheck">
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.2dp"
+        android:background="@android:color/darker_gray"
+        android:visibility="visible" />
+
+    <TextView
+        style="@style/Title"
+        android:text="Feb 9 2016">
+
+    </TextView>
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light">
+
+        <TextView
+            style="@style/ItemText"
+            android:text="brain's birthday party">
+
+        </TextView>
+
+        <TextView
+            style="@style/ItemHour"
+            android:text="7:00 PM">
+
+        </TextView>
+
+        <CheckBox style="@style/ItemCheck"
+
+            >
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light">
+
+        <TextView
+            style="@style/ItemText"
+            android:text="First proyect due and start">
+
+        </TextView>
+
+        <TextView
+
+            style="@style/ItemHour"
+            android:text="4:30 PM">
+
+        </TextView>
+
+        <CheckBox
+
+            style="@style/ItemCheck">
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.2dp"
+        android:background="@android:color/darker_gray"
+        android:visibility="visible" />
+
+    <TextView
+        style="@style/Title"
+        android:text="Feb 6 2016">
+
+    </TextView>
+
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light">
+
+        <TextView
+            style="@style/ItemText"
+            android:text="Finish the fisrt iteration before sleep">
+
+        </TextView>
+
+        <TextView
+            style="@style/ItemHour"
+            android:text="9:00 PM">
+
+        </TextView>
+
+        <CheckBox style="@style/ItemCheck"
+
+            >
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light">
+
+        <TextView
+            style="@style/ItemText"
+            android:text="Dinner at Partycity">
+
+        </TextView>
+
+        <TextView
+
+            style="@style/ItemHour"
+            android:text="7:00 PM">
+
+        </TextView>
+
+        <CheckBox
+
+            style="@style/ItemCheck">
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light">
+
+        <TextView
+            style="@style/ItemText"
+            android:text="Bring laptop to the meeting">
+
+        </TextView>
+
+        <TextView
+
+            style="@style/ItemHour"
+            android:text="8:00 AM">
+
+        </TextView>
+
+        <CheckBox
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="16dp"
+            android:buttonTint="@android:color/holo_green_dark">
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light">
+
+        <TextView
+            style="@style/ItemText"
+            android:text="Leg day">
+
+        </TextView>
+
+        <TextView
+
+            style="@style/ItemHour"
+            android:text="6:00 AM">
+
+        </TextView>
+
+        <CheckBox style="@style/ItemCheck">
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/separator"
+        android:layout_width="fill_parent"
+        android:layout_height="0.2dp"
+        android:background="@android:color/darker_gray"
+        android:visibility="visible" />
+
+    <TextView
+        style="@style/Title"
+        android:text="Feb 6 2016">
+
+    </TextView>
+
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light">
+
+        <TextView
+            style="@style/ItemText"
+            android:text="Finish the first iteration before sleep">
+
+        </TextView>
+
+        <TextView
+            style="@style/ItemHour"
+            android:text="9:00 PM">
+
+        </TextView>
+
+        <CheckBox style="@style/ItemCheck"
+
+            >
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light">
+
+        <TextView
+            style="@style/ItemText"
+            android:text="Dinner at PartyCity">
+
+        </TextView>
+
+        <TextView
+
+            style="@style/ItemHour"
+            android:text="4:30 PM">
+
+        </TextView>
+
+        <CheckBox
+
+            style="@style/ItemCheck">
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light">
+
+        <TextView
+            style="@style/ItemText"
+            android:text="Bring laptop to the moment">
+
+        </TextView>
+
+        <TextView
+
+            style="@style/ItemHour"
+            android:text="2:30 PM">
+
+        </TextView>
+
+        <CheckBox
+
+            style="@style/ItemCheck">
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@android:color/background_light">
+
+        <TextView
+            style="@style/ItemText"
+            android:text="Leg day">
+
+        </TextView>
+
+        <TextView
+
+            style="@style/ItemHour"
+            android:text="10:30 PM">
+
+        </TextView>
+
+        <CheckBox
+
+            style="@style/ItemCheck">
+
+        </CheckBox>
+
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.2dp"
+        android:background="@android:color/darker_gray"
+        android:visibility="visible" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton style="@style/FloatButton"
+        />
+
+</LinearLayout>
