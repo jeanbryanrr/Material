@@ -6,6 +6,11 @@
 
     >
 
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/tb_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary" />
 
     <TextView
 
@@ -176,9 +181,7 @@
 
         </TextView>
 
-        <CheckBox style="@style/ItemCheck"
-
-            >
+        <CheckBox style="@style/ItemCheck">
 
         </CheckBox>
 
@@ -413,7 +416,6 @@
         android:visibility="visible" />
 
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton style="@style/FloatButton"
-        />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton style="@style/FloatButton" />
 
 </LinearLayout>
